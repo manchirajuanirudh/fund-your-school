@@ -1,0 +1,39 @@
+.sq-image{
+  /* height: 50%;
+  width: 50%; */
+  display: inline;
+}
+.progress{
+  height: 1.5rem;
+}
+.projectProgress{
+  height: 2.5rem;
+}
+.carousel{
+  height: 45%;
+  width: 54%;
+  transform: translate(45%, 7%);
+}
+
+.carousel-control-next {
+  right: -18%;
+}
+.carousel-control-prev {
+  left: -18%;
+}
+/* 
+div.carousel-item>img{
+  height: 100%;
+  width: 100%;
+} */
+
+.login-form{
+  margin-top: 1%;
+}
+
+.card label {
+  font-size: 0.875rem !important;
+}
+.tooltip{
+  font-size: 14px;
+}
